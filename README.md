@@ -1,0 +1,1 @@
+Based off the starter template for NextJS
